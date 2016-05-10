@@ -1,6 +1,6 @@
 # Final-Project
 
-Note: The original commit date was Monday, May 9th. This readme was updated today as a copy of the original readme, which was uploaded on Monday, May 9th. 
+Note: The original commit date was Monday, May 9th. This readme was updated today as a copy of the original readme, which was uploaded on Monday, May 9th. This can be confirmed by looking at the commit dates of the four required files: "inventoryprogramfinal1.php", "inventoryprogrammongoconnect.sh", "finaldbbackup.sql", and "FinalProjectReadMe.txt".  
 
 Michael Picillo
 Final Project - ReadMe
