@@ -1,5 +1,7 @@
 # Final-Project
 
+Note: The original commit date was Monday, May 9th. This readme was updated today as a copy of the original readme, which was uploaded on Monday, May 9th. 
+
 Michael Picillo
 Final Project - ReadMe
 
